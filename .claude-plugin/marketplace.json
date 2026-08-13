@@ -1,0 +1,15 @@
+{
+  "name": "skulayer",
+  "owner": {
+    "name": "SKULayer",
+    "url": "https://skulayer.com"
+  },
+  "plugins": [
+    {
+      "name": "skulayer",
+      "source": "./",
+      "description": "SKULayer agent plugin: audit, preview, and fix product feeds through the preview-first feed optimization layer.",
+      "version": "0.1.0"
+    }
+  ]
+}
