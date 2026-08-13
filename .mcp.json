@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "skulayer": {
+      "type": "http",
+      "url": "https://skulayer.com/mcp"
+    }
+  }
+}

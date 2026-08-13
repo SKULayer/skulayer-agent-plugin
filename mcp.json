@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "skulayer": {
+      "type": "streamable-http",
+      "url": "https://skulayer.com/mcp"
+    }
+  }
+}
