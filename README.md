@@ -2,6 +2,10 @@
 
 SKULayer connects an AI assistant to a product feed. The assistant can audit the feed, turn issues into rules, and show a preview before anything is enabled. This repository is that package for Cursor and for Claude Code.
 
+## Price
+
+The plugin is free to install and does not charge inside Cursor. It connects to the SKULayer MCP server at https://skulayer.com/mcp with OAuth sign-in. Read tools work on the SKULayer Free plan. Write tools need a paid SKULayer plan. The plugin itself has no fee.
+
 ## Install the plugin in Cursor
 
 1. Clone https://github.com/SKULayer/skulayer-agent-plugin.
