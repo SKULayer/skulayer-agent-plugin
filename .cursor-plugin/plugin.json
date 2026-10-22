@@ -1,0 +1,24 @@
+{
+  "name": "skulayer",
+  "version": "0.1.0",
+  "description": "SKULayer is the preview-first feed optimization layer for retailers and agencies. This plugin connects your AI assistant to SKULayer so it can audit your product feed, turn issues into safe previewable fixes, and keep a cleaner feed flowing to Google Shopping and Meta.",
+  "author": {
+    "name": "SKULayer Ltd",
+    "url": "https://skulayer.com"
+  },
+  "homepage": "https://skulayer.com",
+  "repository": "https://github.com/SKULayer/skulayer-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "product-feed",
+    "feed-optimization",
+    "google-shopping",
+    "merchant-center",
+    "meta",
+    "shopping-ads"
+  ],
+  "logo": "assets/logo.svg",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}
